@@ -1,0 +1,13 @@
+.card {
+  margin-bottom: 20px;
+}
+.card-img-top {
+  width: 200px;
+  height: 200px;
+}
+
+.navbar {
+   height: 56px;
+   line-height: 56px;
+   padding: 0 26px;
+}
